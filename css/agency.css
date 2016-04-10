@@ -265,7 +265,7 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: url(../city.jpg);
+    background-image: url(../cityShaded.png);
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
